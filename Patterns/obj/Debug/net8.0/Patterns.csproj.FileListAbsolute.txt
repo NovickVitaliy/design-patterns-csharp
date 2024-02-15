@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\Patterns\Patterns\bin\Debug\net8.0\Patterns.exe
+C:\Users\User\RiderProjects\Patterns\Patterns\bin\Debug\net8.0\Patterns.deps.json
+C:\Users\User\RiderProjects\Patterns\Patterns\bin\Debug\net8.0\Patterns.runtimeconfig.json
+C:\Users\User\RiderProjects\Patterns\Patterns\bin\Debug\net8.0\Patterns.dll
+C:\Users\User\RiderProjects\Patterns\Patterns\bin\Debug\net8.0\Patterns.pdb
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.sourcelink.json
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.dll
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\refint\Patterns.dll
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.pdb
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\Patterns.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Patterns\Patterns\obj\Debug\net8.0\ref\Patterns.dll
