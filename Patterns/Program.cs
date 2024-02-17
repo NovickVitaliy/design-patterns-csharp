@@ -2,5 +2,6 @@
 
 
 using Patterns.Structural.Bridge;
+using Patterns.Structural.Composite;
 
-BridgeProgram.BridgeMain(Array.Empty<string>());
+CompositeProgram.CompositeMain(Array.Empty<string>());
