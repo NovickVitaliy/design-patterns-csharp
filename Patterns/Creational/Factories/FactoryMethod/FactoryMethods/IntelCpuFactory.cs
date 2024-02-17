@@ -1,6 +1,6 @@
 using Patterns.Creational.Factories.FactoryMethod.Interfaces;
 
-namespace Patterns.Creational.Factories.FactoryMethod;
+namespace Patterns.Creational.Factories.FactoryMethod.FactoryMethods;
 
 public class IntelCpuFactory : ICpuFactory
 {
