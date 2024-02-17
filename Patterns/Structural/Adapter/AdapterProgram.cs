@@ -1,8 +1,8 @@
 namespace Patterns.Structural.Adapter;
 
-public class Program
+public class AdapterProgram
 {
-    public static void Main(string[] args)
+    public static void AdapterMain(string[] args)
     {
         INewService newService = new NewService();
         INewService adapterLegacyService = new LegacyServiceAdapter(new LegacyService());
