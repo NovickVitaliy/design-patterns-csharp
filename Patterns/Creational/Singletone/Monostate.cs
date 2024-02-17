@@ -5,10 +5,9 @@ public class Monostate
     private static string _state1 = string.Empty;
     private static string _state2 = string.Empty;
 
-    public Monostate(string state1, string state2)
+    public Monostate()
     {
-        _state1 = state1;
-        _state2 = state2;
+        
     }
 
     public string State1
