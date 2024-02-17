@@ -7,7 +7,7 @@ public class Student : Person, IPrototype<Student>
     public University University { get; set; }
     public Student()
     {
-        throw new NotImplementedException();
+        
     }
     public Student(Student other)
     {

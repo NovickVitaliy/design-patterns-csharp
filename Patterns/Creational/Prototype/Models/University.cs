@@ -5,7 +5,7 @@ namespace Patterns.Creational.Prototype.Models;
 public class University : IPrototype<University>
 {
     public string Name { get; set; }
-    public List<Student> Students { get; set; }
+    public List<Student> Students { get; set; } = new();
     public University()
     {
         
