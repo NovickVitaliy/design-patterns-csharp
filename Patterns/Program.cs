@@ -2,5 +2,11 @@
 
 
 using Patterns.Structural.Flyweight;
+using Patterns.Structural.Proxy;
+using Patterns.Structural.Proxy.ProxyAsCachedLazyLoading;
+using Patterns.Structural.Proxy.ProxyAsLogging;
+using Patterns.Structural.Proxy.ProxyAsRestriction;
 
-FlyweightProgram.FlyweightMain(Array.Empty<string>());
+
+Console.WriteLine();
+ProxyAsCachedLazyLoadingProgram.ProxyAsCachedLazyLoadingMain(Array.Empty<string>());
