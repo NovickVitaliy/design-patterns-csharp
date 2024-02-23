@@ -3,5 +3,6 @@
 
 using Patterns.Behavioral.Command;
 using Patterns.Behavioral.Interpreter;
+using Patterns.Behavioral.Iterator;
 
-InterpreterProgram.InterpreterMain(Array.Empty<string>());
+IteratorProgram.IteratorMain(Array.Empty<string>());
