@@ -2,5 +2,6 @@
 
 
 using Patterns.Behavioral.Command;
+using Patterns.Behavioral.Interpreter;
 
-CommandProgram.CommandMain(Array.Empty<string>());
+InterpreterProgram.InterpreterMain(Array.Empty<string>());
