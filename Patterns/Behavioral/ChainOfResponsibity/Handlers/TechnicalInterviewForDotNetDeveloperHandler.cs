@@ -10,7 +10,12 @@ public class TechnicalInterviewForDotNetDeveloperHandler : InternshipHandler
         Console.WriteLine("Technical interview handler...");
         if (internshipRequest.KnownTechnologies.Contains("ASP.NET"))
         {
-            return _next.Handle(internshipRequest);
+            if (_next != null)
+            {
+                return _next.Handle(internshipRequest);
+            }
+
+            return true;
         }
 
         Console.WriteLine("Applier does not have required hard skills");

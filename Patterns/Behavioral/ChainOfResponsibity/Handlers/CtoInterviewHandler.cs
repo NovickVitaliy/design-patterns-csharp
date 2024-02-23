@@ -10,6 +10,10 @@ public class CtoInterviewHandler : InternshipHandler
         Console.WriteLine("Cto interview handler...");
         if (internshipRequest.SoftSkillsLevel is SoftSkillsLevel.Medium or SoftSkillsLevel.Medium)
         {
+            if (_next != null)
+            {
+                return _next.Handle(internshipRequest);
+            }
             return true;
         }
 
