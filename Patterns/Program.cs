@@ -1,13 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using Patterns.Behavioral.ChainOfResponsibity;
-using Patterns.Structural.Flyweight;
-using Patterns.Structural.Proxy;
-using Patterns.Structural.Proxy.ProxyAsCachedLazyLoading;
-using Patterns.Structural.Proxy.ProxyAsLogging;
-using Patterns.Structural.Proxy.ProxyAsRestriction;
+using Patterns.Behavioral.Command;
 
-
-Console.WriteLine();
-ChainOfResponsibilityProgram.ChainOfResponsibilityMain(Array.Empty<string>());
+CommandProgram.CommandMain(Array.Empty<string>());
