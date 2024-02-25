@@ -2,5 +2,6 @@
 
 
 using Patterns.Behavioral.Mediator;
+using Patterns.Behavioral.Memento;
 
-MediatorProgram.MediatorMain(Array.Empty<string>());
+MementoProgram.MementoMain(Array.Empty<string>());
