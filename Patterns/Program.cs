@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using Patterns.Behavioral.Mediator;
-using Patterns.Behavioral.Memento;
+using Patterns.Behavioral.NullObject;
 
-MementoProgram.MementoMain(Array.Empty<string>());
+NullObjectProgram.NullObjectMain(Array.Empty<string>());
