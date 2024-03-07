@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using Patterns.Behavioral.NullObject;
+using Patterns.Behavioral.Observer;
 
-NullObjectProgram.NullObjectMain(Array.Empty<string>());
+ObserverProgram.ObserverMain(Array.Empty<string>());
