@@ -2,5 +2,6 @@
 
 
 using Patterns.Behavioral.Observer;
+using Patterns.Creational.Factories.FactoryMethodViaAbstractClass;
 
-ObserverProgram.ObserverMain(Array.Empty<string>());
+FactoryMethodViaAbstractClassProgram.FactoryMethodViaAbstractClassMain(new []{""});
