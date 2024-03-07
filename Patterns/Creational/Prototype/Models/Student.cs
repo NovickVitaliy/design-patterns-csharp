@@ -9,9 +9,8 @@ public class Student : Person, IPrototype<Student>
     {
         
     }
-    public Student(Student other)
+    public Student(Student other) : base(other)
     {
-        base.Clone();
         University = other.University.Clone();
     }
 
