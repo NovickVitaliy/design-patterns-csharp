@@ -2,6 +2,7 @@
 
 
 using Patterns.Behavioral.Observer;
+using Patterns.Behavioral.State;
 using Patterns.Creational.Factories.FactoryMethodViaAbstractClass;
 
-FactoryMethodViaAbstractClassProgram.FactoryMethodViaAbstractClassMain(new []{""});
+StateProgram.Main(new []{""});
