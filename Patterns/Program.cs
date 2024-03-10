@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using Patterns.Behavioral.Strategy;
+using Patterns.Behavioral.TemplateMethod;
 
-StrategyProgram.StrategyMain(new []{""});
+TemplateMethodProgram.Main(new []{""});
