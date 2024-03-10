@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using Patterns.Behavioral.TemplateMethod;
+using Patterns.Behavioral.Visitor;
 
-TemplateMethodProgram.Main(new []{""});
+VisitorProgram.Main(new []{""});
